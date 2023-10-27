@@ -1,0 +1,6 @@
+10/27/2023 11:10:42 AM - SeleniumDriver - INFO: Element Found
+10/27/2023 11:10:43 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+10/27/2023 11:10:43 AM - SeleniumDriver - INFO: Element Found
+10/27/2023 11:10:43 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+10/27/2023 11:10:43 AM - SeleniumDriver - INFO: Element Found
+10/27/2023 11:10:43 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath

@@ -1,0 +1,11 @@
+Install packages using pip according to requirements.txt file. Run the command below in terminal:
+$ pip install -r requirements.txt
+
+To run the test use the following command:
+py.test -s -v tests/home/login_tests.py
+
+To generate html report install a plugin with the command: 
+pip install pytest-html
+
+To generate a HTML report for a Selenium test,use command:
+pytest --html=report.html.

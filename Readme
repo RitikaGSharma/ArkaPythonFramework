@@ -8,4 +8,5 @@ To generate html report install a plugin with the command:
 pip install pytest-html
 
 To generate a HTML report for a Selenium test,use command:
-pytest --html=report.html.
+py.test -s -v --html=report.html tests/home/login_tests.py
+
